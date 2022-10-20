@@ -1,5 +1,4 @@
 # Frontend Mentor - Notifications page
-# Notifications page
 A simple Notifications page for Frontend Mentor
 
 ### Frontend Mentor - Notifications page
